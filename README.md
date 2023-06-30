@@ -2,12 +2,12 @@
  Arvind Tomar</a> Github Profile!</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
+Hi there! I'm  a passionate developer with a love for frontend technologies.
+I believe in the power of technology to solve real-world problems and create meaningful experiences.
+
 <a target="_blank" align="center">
   <img align="right" top="600" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
-Hi there! I'm  a passionate developer with a love for frontend technologies.
-I believe in the power of technology to solve real-world problems and create meaningful experiences.
 
 ## About Me
 
