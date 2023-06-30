@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to 👋 <a href="https://github.com/Arvind2105" target="blank">
  Arvind Tomar</a> Github Profile!</h1>
-<h3 align="center">A passionate Web developer from Mathura India &#127470;&#127475</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="600" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 Hi there! I'm  a passionate developer with a love for frontend technologies.
