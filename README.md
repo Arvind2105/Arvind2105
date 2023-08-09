@@ -42,7 +42,12 @@ I believe in the power of technology to solve real-world problems and create mea
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!--Languages and Tools-->
+<div  id="languages-tools">
+  <ul >
+    <summary><h2 style="display: inline-block">Languages and Tools:</h2></summary>
+  </ul>
+</div>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
