@@ -82,7 +82,7 @@ I believe in the power of technology to solve real-world problems and create mea
       alt="react" width="40" height="40" />
  </a>
 
-  <a href="https://vscode.org/" target="_blank" rel="noreferrer">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
       alt="react" width="40" height="40" />
  </a>
