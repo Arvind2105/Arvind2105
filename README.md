@@ -85,6 +85,6 @@ I believe in the power of technology to solve real-world problems and create mea
 
 ---
 
-Credit: [Arvind Tomar](https://github.com/100rabhcsmc)
+Credit: [Arvind Tomar](https://github.com/Arvind2105)
 
-Last Edited on: 08/08/2022
+Last Edited on: 09/08/2023
